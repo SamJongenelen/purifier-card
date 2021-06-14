@@ -203,6 +203,7 @@ If this card works with your air purifier, please open a PR and your model to th
 - Dyson Pure Humidify+Cool ([using Dyson integration](https://www.home-assistant.io/integrations/dyson/))
 - Winix AM90 Wi-Fi Air Purifier
 - Philips AirPurifier AC3858/50 (partially) 
+- Philips AirPurifier AC1214/10
 - [_Your purifier?_][edit-readme]
 
 ## Development
